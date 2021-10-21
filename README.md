@@ -1,8 +1,8 @@
-# [[%Asset@name%]] Documentation
+# Cognitive Cloud Open Development Documentation
 
 
 To launch the docs, go to this url:
-https://pages.github.ibm.com/ibm-asset/[[%Asset@id%]]-docs/
+https://pages.github.ibm.com/ibm-asset/ccode-docs/
 
 ## Install MkDocs
 
