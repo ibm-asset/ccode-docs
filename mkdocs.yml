@@ -1,0 +1,70 @@
+site_name: "[[%Asset@name%]] Documentation"
+nav:
+  - "Overview": "index.md"
+  - "Personas":
+    - "Admin": "personas/admin.md"
+    
+  - "Components":
+    - "Core": "components/core/core.md"
+      - "Admin": "components/core/admin/index.md"
+    
+  - "Technology":
+    - "IBM": "technology/ibm/ibm.md"
+      - "Cloud": "technology/ibm/cloud.md"
+      - "OpenShift": "technology/ibm/openshift.md"
+    - "Open Source":
+      - "Docker": "technology/open-source/docker.md"
+      
+  - "Projects":
+    - "[[%Year%]]":
+      - "[[%Project@id%]]": "projects/[[%Year%]]/[[%Project@id%]].md"
+
+  - "Release":
+    - "1.0.0": "release/notes-1.0.0.md"
+
+  - "Community":
+    - "[[%Community@name%]]": "community/[[%Community@name%]].md"
+
+  - "Collaborators": "collaborators.md"
+
+# Project Information
+site_url: "https://github.ibm.com/ibm-asset/[[%Asset@id%]]-docs"
+site_description: [[%Asset@descr%]]
+site_author: IBM Services Asset
+
+# Repository Information
+repo_name: 'ibm-asset/[[%Asset@id%]]-docs'
+repo_url: 'https://github.ibm.com/ibm-asset/[[%Asset@id%]]-docs'
+docs_dir: 'docs'
+site_dir: 'site'
+remote_branch: 'gh-pages'
+remote_name: 'origin'
+    
+
+theme:
+  name: material
+  font:
+    text: IBM Plex Sans
+    code: IBM Plex Mono
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: black
+      accent: blue
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.superfences
+extra_css:
+  - "stylesheets/extra_css.css"
+extra_javascript:
+  - javascripts/extra.js
