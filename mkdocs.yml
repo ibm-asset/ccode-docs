@@ -28,13 +28,13 @@ nav:
   - "Collaborators": "collaborators.md"
 
 # Project Information
-site_url: "https://github.ibm.com/ibm-asset/ccode-docs"
+site_url: "https://github.com/ibm-asset/ccode"
 site_description: Cognitive Cloud Open Development
 site_author: IBM Services Asset
 
 # Repository Information
 repo_name: 'ibm-asset/ccode-docs'
-repo_url: 'https://github.ibm.com/ibm-asset/ccode-docs'
+repo_url: 'https://github.com/ibm-asset/ccode-docs'
 docs_dir: 'docs'
 site_dir: 'site'
 remote_branch: 'gh-pages'
