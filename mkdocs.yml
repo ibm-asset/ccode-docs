@@ -5,11 +5,11 @@ nav:
     - "Admin": "personas/admin.md"
     
   - "Components":
-    - "Core": "components/core/core.md"
-      - "Admin": "components/core/admin/index.md"
+    - "Core":
+      - "Admin": "components/core/admin/admin.md"
     
   - "Technology":
-    - "IBM": "technology/ibm/ibm.md"
+    - "IBM":
       - "Cloud": "technology/ibm/cloud.md"
       - "OpenShift": "technology/ibm/openshift.md"
     - "Open Source":
@@ -29,7 +29,7 @@ nav:
 
 # Project Information
 site_url: "https://github.ibm.com/ibm-asset/ccode-docs"
-site_description: [[%Asset@descr%]]
+site_description: Cognitive Cloud Open Development
 site_author: IBM Services Asset
 
 # Repository Information
