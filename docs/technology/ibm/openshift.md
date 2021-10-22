@@ -1,2 +1,2 @@
-# IBM Cloud
+# IBM OpenShift
 

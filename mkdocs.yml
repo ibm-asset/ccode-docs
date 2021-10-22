@@ -1,4 +1,4 @@
-site_name: "[[%Asset@name%]] Documentation"
+site_name: "Cognitive Cloud Open Development Documentation"
 nav:
   - "Overview": "index.md"
   - "Personas":
@@ -17,24 +17,24 @@ nav:
       
   - "Projects":
     - "[[%Year%]]":
-      - "[[%Project@id%]]": "projects/[[%Year%]]/[[%Project@id%]].md"
+      - "[[%Project@id%]]": "projects/2021/ccode-2021-aot.md"
 
   - "Release":
     - "1.0.0": "release/notes-1.0.0.md"
 
   - "Community":
-    - "[[%Community@name%]]": "community/[[%Community@name%]].md"
+    - "[[%Community@name%]]": "community/IBM Developer.md"
 
   - "Collaborators": "collaborators.md"
 
 # Project Information
-site_url: "https://github.ibm.com/ibm-asset/[[%Asset@id%]]-docs"
+site_url: "https://github.ibm.com/ibm-asset/ccode-docs"
 site_description: [[%Asset@descr%]]
 site_author: IBM Services Asset
 
 # Repository Information
-repo_name: 'ibm-asset/[[%Asset@id%]]-docs'
-repo_url: 'https://github.ibm.com/ibm-asset/[[%Asset@id%]]-docs'
+repo_name: 'ibm-asset/ccode-docs'
+repo_url: 'https://github.ibm.com/ibm-asset/ccode-docs'
 docs_dir: 'docs'
 site_dir: 'site'
 remote_branch: 'gh-pages'
