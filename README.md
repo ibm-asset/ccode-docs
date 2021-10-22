@@ -1,8 +1,8 @@
 # Cognitive Cloud Open Development Documentation
 
 
-To launch the docs, go to this url:
-https://pages.github.ibm.com/ibm-asset/ccode-docs/
+To launch the docs, go to this url:<br/>
+https://ibm-asset.github.io/ccode-docs/
 
 ## Install MkDocs
 
