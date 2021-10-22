@@ -10,6 +10,7 @@ https://pages.github.ibm.com/ibm-asset/ccode-docs/
    - `python get-pip.py` to install or
    - `pip install --upgrade pip` to upgrade
 2. Run `pip install mkdocs`
+3. Run `pip install mkdocs-material`
 
 ## Reference for Markdown
 
