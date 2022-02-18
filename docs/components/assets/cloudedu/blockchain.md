@@ -1,0 +1,1 @@
+Team IBM and team CasperLabs wish to create an asset using IBM Cloud hosted IaaS VM instance to stand up a full CasperLabs node that runs Highway protocol and be able to join and work with Ethereum 1.0 and 2.0 versions of mainnet, testnet and beacon chain. Additionally this CasperLabs full node is able to connect with and work with CasperLabs own testnet

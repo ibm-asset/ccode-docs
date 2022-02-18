@@ -7,16 +7,18 @@ h1 {
 
 p {
   font-size: 20px;
-  margin-left: 200px;
-  margin-right: 550px;
+  margin-left: 30px;
+  margin-right: 50px;
   text-align:justify;
 }
+
+
 </style>
 
-<h1>Cognitive Telescope Network</h1>
-<p>
-Telescopic follow-up of transient events is one of the most desirable and scientifically valuable activities in observational astronomy. Transients are often poorly localized in the sky, and telescopes have a limited field of view. Pinpointing the transient source is often daunting. The Cognitive Telescope Network (CTN) will provide the backbone for an intelligent network of telescopes worldwide that can autonomously react to transient astronomical events of interest. </p>
+<h1> {{ cognitive_cloud.asset_name }}</h1>
 
+<p style="font-size:100%">
+Cognitive Cloud Open Development (ccode) is a framework to collaborate on the lifecycle of assets, events, publications and projects. It's primary objective is to create a platform for academia and research to collaborate on Open Source projects and publish the results in an iterative manner. Processes are defined to be agile and flexible and to be able to integrate with a standard set of tools that may change over time </p>
 
 
 <figure>
@@ -25,8 +27,27 @@ title="INDI"
  alt="INDI"
  style="width: 700px;margin-left: 200px;"/>
 </figure>
+<img src="../images/mission.jpg"
+		 style="width: 20px;margin-top: 3px;"/>
+### **Mission** 
+<ul>Create an ecosystem of sustainable reusable assets to solve real-world problems through research</ul>
 
+### **Objectives**
+- Build Cognitive Cloud solutions from research problems
+- Build better relationship with Universities, Schools and Education programs
+- Monetization of assets using APIs to drive business value for IBM
+- Re-invest into research initiatives from cost recovery models
+- Connect with communities through Open Table Discussions and social apps
+- Create re-usable examples with Open and IBM technologies to illustrate solutions to complex technical problems
 
+ 
+### **Metrics**
+- Collect data into role-based dashboards
+- Collect feedback and comments to analyze and introspect
+- Collect statistics from asset usage, load analysis, code commits, etc
+- Reward individuals based on statistics gathered and participation in the program
+
+ 
 <p>
 Examples of transient events are supernovas, gamma-ray bursts and gravitational waves. CTN aims to capture events for sources like these, selecting the right set of telescopes and instructing them to take photographs of the events.</p>
  

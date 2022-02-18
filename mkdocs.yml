@@ -1,20 +1,45 @@
 site_name: "Cognitive Cloud Open Development Documentation"
 nav:
-  - "Overview": "index.md"
+  - "Overview": "index3.md"
   - "Personas":
     - "Admin": "personas/admin.md"
+    - "Mentor": "personas/mentor.md"
+    - "Partner": "personas/partner.md"
+    - "Faculty": "personas/faculty.md"
+    - "Developer": "personas/developer.md"
     
-  - "Components":
-    - "Core":
-      - "Admin": "components/core/admin/admin.md"
+  - "CCode-Open-Hub Profiles":
+    - "Assets": 
+      - "Cloud Education": 
+        - "Blockchain": "components/assets/cloudedu/blockchain.md"
+        - "IBM Skill Academy": "components/assets/cloudedu/skillacademy.md"
+        - "Watson and Cloud": "components/assets/cloudedu/watsoncloud.md"  
+      - "Cloud Research": 
+        - "Cloud Telescope Network": "components/assets/cloudresearch/ctn.md" 
+        - "Cognitive Prosthetic Innovations": "components/assets/cloudresearch/cogprosinnov.md"
+        - "Neuro-Electro-Chemical Transmitter Analytics Research": "components/assets/cloudresearch/necanalytics.md"
+      - "Cloud Technology/Services": 
+        - "Enterprise Exception Handler": "components/assets/cloudtechno/eeh.md"
+        - "Enterprise Test Robot": "components/assets/cloudtechno/etr.md"
+        - "SQL Catalog": "components/assets/cloudtechno/sqlcatalog.md"
+        - "Vortex Pattern": "components/assets/cloudtechno/vortex.md"
+        - "Universal Topology": "components/assets/cloudtechno/univtopology.md"
+      
+    - "Framework":
+      - "Dashboard": "components/frameworks/dashboard/dashboard.md"
+      - "Event": "components/frameworks/event/event.md"
+      - "Framework": "components/frameworks/framework.md"
     
   - "Technology":
     - "IBM":
       - "Cloud": "technology/ibm/cloud.md"
       - "OpenShift": "technology/ibm/openshift.md"
+      - "IBM": "technology/ibm/ibm.md"
     - "Open Source":
       - "Docker": "technology/open-source/docker.md"
-      
+  
+  - "Components": "index3.md"    
+  
   - "Projects":
     - "[[%Year%]]":
       - "[[%Project@id%]]": "projects/2021/ccode-2021-aot.md"
@@ -46,6 +71,7 @@ theme:
   font:
     text: IBM Plex Sans
     code: IBM Plex Mono
+    size: 10px
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -64,7 +90,18 @@ theme:
 markdown_extensions:
   - pymdownx.highlight
   - pymdownx.superfences
-extra_css:
-  - "stylesheets/extra_css.css"
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+extra_css: [stylesheets/extra_css.css]
 extra_javascript:
+  - javascripts/paging.js
   - javascripts/extra.js
+
+plugins:
+    - search
+    - markdownextradata: {}
+
+extra:
+  cognitive_cloud:
+    asset_name: Open Development Hub
