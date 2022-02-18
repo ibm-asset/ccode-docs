@@ -1,0 +1,114 @@
+body > div > footer > div.md-footer-meta.md-typeset > div > div {
+  visibility: hidden;
+}
+
+<style>
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+  background-color: #4974a5;
+  color: white;
+}
+td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+tr:nth-child(even) {background-color: #f2f2f2;}
+
+p_desc {
+  font-size: 12px;
+  margin-left: 5px;
+  margin-right: 50px;
+  text-align:left;
+}
+
+p_head {
+  font-size: 15px;
+  margin-left: 5px;
+  margin-right: 50px;
+  text-align:left;
+  font-weight: bold;
+}
+/*start Pillar style*/
+.pillarwrapper {
+  display: flex;
+  padding: 5px 5px 5px 5px;
+  /*padding (top, right, bottom, and left).*/
+  
+}
+ 
+.pillarwrapper > div {
+  flex-grow: 1;
+  /*padding: 20px 20px 0px 20px;*/
+  padding: 0px 0px 0px 0px;
+  height:auto;
+  overflow:hidden;
+  transition: ease-in-out 200ms;
+ /*box-shadow: 0.05rem 0.05rem 0.075rem 0.075rem gainsboro; */
+  box-shadow: 0px 10px 10px rgba(30, 30, 30, 0.08);
+  /*background: linear-gradient(to right bottom, #f7fafc, #fff);*/
+  /*background-color: #ffffff;*/
+  background-color: #D3D3D3;
+  border-collapse: collapse;
+  cursor: default; /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */ 
+}
+ 
+.pillarwrapper > div:first-of-type { margin-right:10px }
+.pillarwrapper > div:nth-of-type(2) { margin-right:10px }
+.pillarwrapper > div:nth-of-type(3) {  margin-right:10px }
+ 
+.pillarwrapper > h2 { margin-top:0 margin-bottom:0 }
+ 
+.pillarwrapper > div:hover {
+  box-shadow: 0px 10px 20px rgba(30, 30, 30, 0.16);
+}
+ 
+.pillarcard {
+padding-bottom:0px;
+width:5%;
+/*width:33vw;*/ 
+}   
+.pillarcard img {
+opacity: 0.8;
+transition: ease-in-out 200ms;  
+}
+.pillarcard:hover img {
+opacity: 1.0;
+}
+/*end Pillar style*/
+
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  background-color: DodgerBlue;
+  width: 900px;
+}
+
+
+.flex-container > div {
+  background-color: #f1f1f1;
+  margin: 10px;
+  font-size: 30px;
+  width: 200px;
+}
+
+img[alt="Result1"] {
+    width: 20px;
+    margin-left: 10px;
+    float: left;
+   }
+
+img[alt="Result2"] {
+    width: 200px;
+   }
+img[alt="Result3"] {
+    width: 400px;
+   }
+</style>
