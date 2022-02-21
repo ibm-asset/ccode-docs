@@ -38,7 +38,7 @@ nav:
     - "Open Source":
       - "Docker": "technology/open-source/docker.md"
   
-  - "Components": "index3.md"    
+  - "Components": "index.md"    
   
   - "Projects":
     - "[[%Year%]]":
