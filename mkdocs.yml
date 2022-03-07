@@ -11,7 +11,7 @@ nav:
   - "Open Hub":
     - "Assets": 
       - "Cloud Education": 
-        - "Blockchain": "components/assets/cloudedu/blockchain.md"
+        - "Blockchain ": "components/assets/cloudedu/blockchain.md"
         - "IBM Skill Academy": "components/assets/cloudedu/skillacademy.md"
         - "Watson and Cloud": "components/assets/cloudedu/watsoncloud.md"  
       - "Cloud Research": 

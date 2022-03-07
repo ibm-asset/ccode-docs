@@ -23,7 +23,7 @@ The Cognitive Telescope Network (CTN) will be a framework that takes notificatio
 <br>***Observing Director - ***this component contains placement algorithm for telescopes to be arranged based on optimized criteria for Tiling and Directed Search
 <br>- The UX calls the API that filters telescopes based on geo-location, weather and other factors and sends commands to the telescope commander component 
 
-<br>***Astronomy Assistant - ***this component contains cognitive user interface to interact with the n/w, both for accessing the knowledge base and for sending commands
+<br>***Astrnomy Assistant - ***this component contains cognitive user interface to interact with the n/w, both for accessing the knowledge base and for sending commands
 <br>- creates a chatbot interface to the application
 <br>- The design calls for the building of a web, social media and journal crawler to parse, analyze and learn from the information to enrich the corpus and the astronomical models.
 
