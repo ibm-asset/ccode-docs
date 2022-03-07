@@ -8,14 +8,14 @@ nav:
     - "Faculty": "personas/faculty.md"
     - "Developer": "personas/developer.md"
     
-  - "CCode-Open-Hub Profiles":
+  - "Open Hub":
     - "Assets": 
       - "Cloud Education": 
         - "Blockchain": "components/assets/cloudedu/blockchain.md"
         - "IBM Skill Academy": "components/assets/cloudedu/skillacademy.md"
         - "Watson and Cloud": "components/assets/cloudedu/watsoncloud.md"  
       - "Cloud Research": 
-        - "Cloud Telescope Network": "components/assets/cloudresearch/ctn.md" 
+        - "Cognitive Telescope Network": "components/assets/cloudresearch/ctn.md" 
         - "Cognitive Prosthetic Innovations": "components/assets/cloudresearch/cogprosinnov.md"
         - "Neuro-Electro-Chemical Transmitter Analytics Research": "components/assets/cloudresearch/necanalytics.md"
       - "Cloud Technology/Services": 
