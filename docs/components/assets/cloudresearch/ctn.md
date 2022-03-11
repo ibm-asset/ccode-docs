@@ -15,19 +15,19 @@ The Cognitive Telescope Network (CTN) will be a framework that takes notificatio
 <br>- DevOps deployments using Terraform and Tekton Pipeline on OpenShift
 <br>- Documentation using MkDocs published on Git
 
-<br>***Telescope Commander - ***enables remote controlling of telescopes in the n/w through IoT from anywhere in the world as an interconnected device
+***Telescope Commander - ***enables remote controlling of telescopes in the n/w through IoT from anywhere in the world as an interconnected device
 <br>-The communication between the UI and the middle tier uses REST API
 <br>-Intercommunication between different components are also achieved using APIs exposed for each of the components.
 <br>-API Test suite for Postman was also created for testing of the API.
 
-<br>***Observing Director - ***this component contains placement algorithm for telescopes to be arranged based on optimized criteria for Tiling and Directed Search
+***Observing Director - ***this component contains placement algorithm for telescopes to be arranged based on optimized criteria for Tiling and Directed Search
 <br>- The UX calls the API that filters telescopes based on geo-location, weather and other factors and sends commands to the telescope commander component 
 
-<br>***Astrnomy Assistant - ***this component contains cognitive user interface to interact with the n/w, both for accessing the knowledge base and for sending commands
+***Astronomy Assistant - ***this component contains cognitive user interface to interact with the n/w, both for accessing the knowledge base and for sending commands
 <br>- creates a chatbot interface to the application
 <br>- The design calls for the building of a web, social media and journal crawler to parse, analyze and learn from the information to enrich the corpus and the astronomical models.
 
-<br>***Devops Deployment - ***
+***Devops Deployment - ***
 <br>**Terraform Script** - used for designing and implementation of Infrastructure as Code for AOT CTN initiative. This allows for repeatable creation of clusters and control of current state of infrastructure
 <br>**Tekton Pipeline** - triggers implemented to automatically build and deploy the services to OpenShift cluster on developer committing code to the code repository.
 <br> - Source code is built into image using source to image (S2I) without need of a Dockerfile and image is pushed to IBM Cloud Container registry(ICR)
