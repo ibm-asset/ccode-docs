@@ -17,6 +17,7 @@ nav:
       - "Cloud Research": 
         - "Cognitive Telescope Network": "components/assets/cloudresearch/ctn.md" 
         - "Cognitive Prosthetic Innovations": "components/assets/cloudresearch/cogprosinnov.md"
+        - "Cognitive Autonomous Racer": "components/assets/cloudresearch/cogautoracer.md"
         - "Neuro-Electro-Chemical Transmitter Analytics Research": "components/assets/cloudresearch/necanalytics.md"
       - "Cloud Technology/Services": 
         - "Enterprise Exception Handler": "components/assets/cloudtechno/eeh.md"
