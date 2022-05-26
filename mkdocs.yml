@@ -19,8 +19,8 @@ nav:
         - "Cognitive Prosthetic Innovations": "components/assets/cloudresearch/cogprosinnov.md"
         - "Cognitive Autonomous Racer": "components/assets/cloudresearch/cogautoracer.md"
         - "Neuro-Electro-Chemical Transmitter Analytics Research": "components/assets/cloudresearch/necanalytics.md"
-      - "Cloud Technology/Services": 
-        - "Enterprise Exception Handler": "components/assets/cloudtechno/eeh.md"
+      - "Cloud Technology/Services":
+        - "Enterprise Exception Handler": "components/assets/cloudtechno/eeh.md" 
         - "Enterprise Test Robot": "components/assets/cloudtechno/etr.md"
         - "SQL Catalog": "components/assets/cloudtechno/sqlcatalog.md"
         - "Vortex Pattern": "components/assets/cloudtechno/vortex.md"
