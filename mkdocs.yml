@@ -25,6 +25,8 @@ nav:
         - "SQL Catalog": "components/assets/cloudtechno/sqlcatalog.md"
         - "Vortex Pattern": "components/assets/cloudtechno/vortex.md"
         - "Universal Topology": "components/assets/cloudtechno/univtopology.md"
+    - "Badges":
+      - "Credley Badges": "components/badges/badges.md"           
       
     - "Framework":
       - "Dashboard": "components/frameworks/dashboard/dashboard.md"
