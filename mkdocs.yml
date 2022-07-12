@@ -1,4 +1,6 @@
 site_name: "Cognitive Cloud Open Development Documentation"
+img: 
+  - (images/asset.jpg)
 nav:
   - "Overview": "index3.md"
   - "Personas":
@@ -26,8 +28,12 @@ nav:
         - "Vortex Pattern": "components/assets/cloudtechno/vortex.md"
         - "Universal Topology": "components/assets/cloudtechno/univtopology.md"
     - "Badges":
-      - "Credley Badges": "components/badges/badges.md"           
-      
+      - "Credley Badges": "components/badges/badges.md"
+
+    - "Cloud":
+      - "Deployment": "components/deployment/cloud_deploy.md"
+      - "Ideas": "components/deployment/ideas.md" 
+         
     - "Framework":
       - "Dashboard": "components/frameworks/dashboard/dashboard.md"
       - "Event": "components/frameworks/event/event.md"
@@ -96,6 +102,8 @@ markdown_extensions:
   - def_list
   - pymdownx.tasklist:
       custom_checkbox: true
+  - attr_list
+  - md_in_html    
 extra_css: [stylesheets/extra_css.css]
 extra_javascript:
   - javascripts/paging.js

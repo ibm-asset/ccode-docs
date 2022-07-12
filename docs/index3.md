@@ -21,12 +21,17 @@ img {
 
 <h1> {{ cognitive_cloud.asset_name }}</h1>
 
+<img src="../images/ccode_ovrvw.jpg"  align="left"
+		 style="width: 400px;"/>
 <p style="font-size:90%">
-Cognitive Cloud Open Development (ccode) is a framework to collaborate on the lifecycle of assets, events, publications and projects. It's primary objective is to create a platform for academia and research to collaborate on Open Source projects and publish the results in an iterative manner. Processes are defined to be agile and flexible and to be able to integrate with a standard set of tools that may change over time </p>
+Cognitive Cloud Open Development (ccode) is a framework to collaborate on the lifecycle of assets, events, publications and projects. 
+<br>It's primary objective is to create a platform for academia and research to collaborate on Open Source projects and publish the results in an iterative manner. 
+<br>Processes are defined to be agile and flexible and to be able to integrate with a standard set of tools that may change over time </p>
 
-
+<br>
+<br>
 <img src="../images/mission.jpg"
-		 style="width: 20px;margin-top: 3px;"/>
+		 style="width: 20px;margin-top: 20px;"/>
  <h4><div style="float:left;margin-top: 10px;">Mission </h4>
 <br>      
 

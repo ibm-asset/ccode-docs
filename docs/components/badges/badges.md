@@ -88,7 +88,8 @@ The IBM Privacy Statement can be viewed here: [Click Here](https://www.ibm.com/p
   <p style="font-size:75%">  
   	<a href="https://www.credly.com/org/ibm/badge/open-event-stem-presenter">IBM</a></p>
   </div>
-</div>>
+</div>>
+
 <div class="pillarwrapper">
  <div align="top" class="pillarcard" >
  <figure>
@@ -324,5 +325,57 @@ The IBM Privacy Statement can be viewed here: [Click Here](https://www.ibm.com/p
   <a href="https://www.credly.com/org/ibm/badge/research-conference-presenter-milestone-25">Research Conference Presenter Milestone 25</a>  
   <p style="font-size:75%">  
   	<a href="https://www.credly.com/org/ibm/badge/research-conference-presenter-milestone-25">IBM</a></p>
+  </div>
+  
+  <div align="top" class="pillarcard" >
+  <figure>
+	<img src="../../../images/hackathon-participant.jpg"
+		 style="width: 70px;margin-left: 10px;"/>
+ </figure>
+  <a href="https://www.credly.com/org/ibm/badge/open-event-quantum-hackathon-participant">Open Event Quantum 	Hackathon - Participant</a>  
+  <p style="font-size:75%">  
+  	<a href="https://www.credly.com/org/ibm/badge/open-event-quantum-hackathon-participant">IBM</a></p>
+  </div>
+</div>
+
+<div class="pillarwrapper">
+ <div align="top" class="pillarcard" >
+ <figure>
+	<img src="../../../images/hackathon-judge.jpg"
+		 style="width: 70px;"/>
+ </figure>
+  <a href="https://www.credly.com/org/ibm/badge/open-event-quantum-hackathon-judge-s-panel">Open Event Quantum Hackathon - Judge's Panel</a>  
+  <p style="font-size:75%">  
+  	<a href="https://www.credly.com/org/ibm/badge/open-event-quantum-hackathon-judge-s-panel">IBM</a></p>
+  </div>
+  
+  <div align="top" class="pillarcard" >
+  <figure>
+	<img src="../../../images/hackathon-gold.jpg"
+		 style="width: 70px;margin-left: 10px;"/>
+ </figure>
+  <a href="https://www.credly.com/org/ibm/badge/open-event-quantum-hackathon-gold-prize">Open Event Quantum Hackathon - Gold Prize</a>  
+  <p style="font-size:75%">  
+  	<a href="https://www.credly.com/org/ibm/badge/open-event-quantum-hackathon-gold-prize">IBM</a></p>
+  </div>
+    
+  <div align="top" class="pillarcard" >
+  <figure>
+	<img src="../../../images/hackathon-silver.jpg"
+		 style="width: 70px;margin-left: 10px;"/>
+ </figure>
+  <a href="https://www.credly.com/org/ibm/badge/open-event-quantum-hackathon-silver-prize">Open Event Quantum Hackathon - Silver Prize</a>  
+  <p style="font-size:75%">  
+  	<a href="https://www.credly.com/org/ibm/badge/open-event-quantum-hackathon-silver-prize">IBM</a></p>
+  </div>
+  
+  <div align="top" class="pillarcard" >
+  <figure>
+	<img src="../../../images/hackathon-bronze.jpg"
+		 style="width: 70px;margin-left: 10px;"/>
+ </figure>
+  <a href="https://www.credly.com/org/ibm/badge/open-event-quantum-hackathon-bronze-prize">Open Event Quantum Hackathon - Bronze Prize</a>  
+  <p style="font-size:75%">  
+  	<a href="https://www.credly.com/org/ibm/badge/open-event-quantum-hackathon-bronze-prize">IBM</a></p>
   </div>
 </div>
