@@ -1,6 +1,6 @@
 #IBM Open Development
 
-IBM uses Credly's platform to assist in the administration of IBM's badge program. Your personal information (PI) is used to issue your badge and for program operations reporting purposes only. PI is handled in a manner consistent with IBM privacy practices. 
+NOTICE: IBM leverages the services of Credly, a 3rd party data processor authorized by IBM and located in the United States, to assist in the administration of the IBM Digital Badge program. In order to issue you an IBM Digital Badge, your personal information (name, email address, and badge earned) will be shared with Credly. You will receive an email notification from Credly with instructions for claiming the badge. Your personal information is used to issue your badge and for program reporting and operational purposes. IBM may share the personal information collected with IBM subsidiaries and third parties globally. It will be handled in a manner consistent with IBM privacy practices.
 <br><br>
 The IBM Privacy Statement can be viewed here: [Click Here](https://www.ibm.com/privacy/us/en/) 
 <br>IBM employees can view the IBM Internal Privacy Statement here: [Click Here](https://w3.ibm.com/w3publisher/w3-privacy-notice) 
